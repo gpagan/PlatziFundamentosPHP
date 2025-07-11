@@ -29,6 +29,12 @@
                     <span class="float-right">4:33 min</span>
                 </p>
 
+                <p> <i class="fa fa-code ml-2" aria-hidden="true"></i>
+                    <span class="task mt-4"><a href="02_condicionales.php" class="navTask">Condicionales en PHP para mostrar información dinámica</a></span>
+                    <span class="time ml-2"><a href="https://platzi.com/cursos/fundamentos-php/condicionales-en-php-para-mostrar-inform/" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> Video Clase </a></span>
+                    <span class="float-right">5:24 min</span>
+                </p>
+
                 <hr>
                 <p class="heading2"><span class="tomorrow">Autor</span></p>
                 <p class="task2 mt-4"><i class="fa fa-user-circle" aria-hidden="true"></i> Guillermo Pagan
