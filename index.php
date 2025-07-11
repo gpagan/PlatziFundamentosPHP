@@ -7,7 +7,6 @@
     <title>Platzi - Curso Fundamentos de PHP</title>
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' rel='stylesheet'>
     <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'>
-    <!-- Agrega esto en el <head> antes de tu <style> -->
     <link href="https://fonts.googleapis.com/css?family=Fira+Mono&display=swap" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -32,7 +31,7 @@
 
                 <hr>
                 <p class="heading2"><span class="tomorrow">Autor</span></p>
-                <p class="task2 mt-4"><i class="fa fa-user-circle" aria-hidden="true"></i> Guillermo Pagan</span>
+                <p class="task2 mt-4"><i class="fa fa-user-circle" aria-hidden="true"></i> Guillermo Pagan
                 </p>
                 <p class="mt-4">
                     <a href="https://github.com/gpagan" target="_blank" style="color:#fff; background:#24292e; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:500; display:inline-block;">

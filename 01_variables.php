@@ -14,7 +14,6 @@ $fechaPublicacion = "15 de octubre de 2023";
     <title>01_variables.php - Curso Fundamentos de PHP</title>
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' rel='stylesheet'>
     <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'>
-    <!-- Agrega esto en el <head> antes de tu <style> -->
     <link href="https://fonts.googleapis.com/css?family=Fira+Mono&display=swap" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
